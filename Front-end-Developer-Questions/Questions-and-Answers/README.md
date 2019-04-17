@@ -399,7 +399,7 @@
 				height:300px;
 				top: 50%;
 				left: 50%;
-				margin: -150px 0 0 -250px;     	/* 外边距为自身宽高的一半 */
+				margin: 150px 0 0 -250px;     	/* 外边距为自身宽高的一半 */
 				background-color: pink;	 	/* 方便看效果 */
 
 			 }
